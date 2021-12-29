@@ -1,0 +1,54 @@
+12 papers, Line space 1.5, font 12
+ 
+
+Results and Discussion:
+
+1. Results: Graphs(png) Tables(Order lo undali)
+Table
+
+2. Literature: how my system different from our system
+compare results with literature
+drwa > results> metrics: Graphs/table
+
+Comparision with the below metrics
+Classification:
+Recall
+Precision
+Confusion Matrix
+F1 Score
+
+Discussion:
+explanation about metrics results -> what methods used to improve these metrics - explanation
+
+methods/Literature:(Explain Elobarately)
+citation: mendeley
+
+
+III. Proposed System
+Architecture/algorithms/flowcharts
+
+IV. introduction (3-4 references)
+all methods introduction
+machine Learning models
+Natural Language Processing
+Sentiment Analysis - Emotion detection
+emotion detection challenges
+
+V. Conclusion
+
+what is problem? my solution, accuracy, strength and limitations
+Future enhacements
+
+V. Abstract (below 250 words)
+ what is problem?
+Existing solutions,
+Limitations, 
+Proposed method,method accuracy
+outoerformed existing models,
+
+major contributions
+1.
+2.
+what we have done
+
+keywords: ---------
